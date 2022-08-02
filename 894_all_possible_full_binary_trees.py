@@ -3,18 +3,7 @@ from tkinter.tix import Tree
 from typing import List, Optional
 from copy import copy
 
-
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-
-    def __eq__(self, __o: object) -> bool:
-        if not isinstance(__o, TreeNode):
-            return False
-
-        return self.val == __o.val and self.left == __o.left and self.right == __o.right
+from treenode import TreeNode
 
 
 class Solution:
