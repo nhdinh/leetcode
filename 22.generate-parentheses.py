@@ -1,4 +1,11 @@
+#
+# @lc app=leetcode id=22 lang=python3
+#
+# [22] Generate Parentheses
+#
 from typing import List
+
+# @lc code=start
 
 
 class Solution:
@@ -12,13 +19,14 @@ class Solution:
                 for ps in prev:
                     for i in range(len(ps)):
                         new_ps = ps[0:i] + "()" + ps[i:len(ps)]
+                        print(new_ps)
+
                         if new_ps not in cur:
                             cur.append(new_ps)
 
                 d[n] = cur
-                return cur
-        
+            return d[n]
 
-if __name__ == '__main__':
-    ss = Solution()
-    print(ss.generateParenthesis(n=4))
+        
+# @lc code=end
+

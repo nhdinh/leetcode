@@ -1,8 +1,12 @@
-# 56. Merge Intervals
+#
+# @lc app=leetcode id=56 lang=python3
+#
+# [56] Merge Intervals
+#
 
 from typing import List
 
-
+# @lc code=start
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals = sorted(intervals, key=lambda x: x[0]) # O(n)
@@ -19,3 +23,5 @@ class Solution:
             
         return ret
         
+# @lc code=end
+

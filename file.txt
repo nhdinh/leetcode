@@ -1,0 +1,59 @@
+
+    Directory: C:\Users\nhdinh\Code\leetcode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           9/26/2022 11:37 PM                .idea
+d----           9/26/2022 11:37 PM                .vscode
+-a---            2/3/2023 11:06 AM            715 1.two-sum.py
+-a---           7/25/2022  8:26 AM            424 100_same_tree.py
+-a---           7/27/2022  3:53 PM            596 101_symmetric_tree.py
+-a---           7/12/2022 10:01 AM            225 1025_divisor_game.py
+-a---            8/2/2022  8:35 PM            555 1115_print_foobar_alternately.py
+-a---           7/12/2022 10:02 AM            406 1137_n-th_tribonacci_number.py
+-a---           7/28/2022  3:27 PM            809 1146_snapshot_array.py
+-a---           7/12/2022  9:57 AM            694 118_pascals_triangle.py
+-a---           7/12/2022  9:59 AM            518 119_pascals_triangle_ii.py
+-a---           7/12/2022 10:00 AM            552 121_best_time_to_buy_and_sell_stock.py
+-a---           7/28/2022  3:45 PM            702 1331_rank_transform_of_an_array.py
+-a---            8/5/2022  3:55 PM           1374 1396_design_underground_system.py
+-a---            8/4/2022  2:26 PM            276 1451_rearrange_words_in_a_sentence.py
+-a---            8/8/2022  5:30 PM           5291 1504_count_submatrices_with_all_ones.py
+-a---            8/5/2022 11:18 AM            431 151_reverse_words_in_a_string.java
+-a---            8/5/2022 11:17 AM            170 151_reverse_words_in_a_string.py
+-a---           7/12/2022 10:03 AM            574 1646_get_maximum_in_generated_array.py
+-a---            2/3/2023  2:03 PM            669 17.letter-combinations-of-a-phone-number.py
+-a---            8/4/2022  7:52 AM             44 1799_maximize_score_after_n_operations.java
+-a---            2/3/2023 11:15 AM             88 183.customers-who-never-order.sql
+-a---            8/2/2022 10:45 AM            477 1855_maximum_distance_between_a_pair_of_values.java
+-a---            8/2/2022 10:43 AM            468 1855_maximum_distance_between_a_pair_of_values.py
+-a---            2/3/2023 11:24 AM             27 196.delete-duplicate-emails.sql
+-a---            8/1/2022  8:05 AM            411 2078_two_furthest_houses_with_different_colors.py
+-a---           7/31/2022 12:08 PM            262 2108_find_first_palindromic_string_in_the_array.py
+-a---            8/2/2022 10:50 AM            363 2169_count_operations_to_obtain_zero.java
+-a---            8/2/2022 11:46 AM            293 2169_count_operations_to_obtain_zero.py
+-a---           7/12/2022  9:54 AM            239 217_contains_duplicate.py
+-a---           7/12/2022  9:55 AM            381 219_contains_duplicate_ii.py
+-a---            2/3/2023 11:10 AM            744 22.generate-parentheses.py
+-a---           7/12/2022  9:56 AM            611 220_contains_duplicate_iii.py
+-a---            2/3/2023 12:12 PM            676 228.summary-ranges.py
+-a---            2/3/2023  2:30 PM            585 29.divide-two-integers.py
+-a---            2/3/2023  2:57 PM           1395 31.next-permutation.py
+-a---           7/12/2022 10:01 AM            374 392_is_subsequence.py
+-a---           7/13/2022 11:46 AM          13883 45_jump_game_ii.py
+-a---           7/27/2022  2:44 PM            579 495_teemo_attacking.py
+-a---           7/13/2022 11:41 AM            292 55_jump_game.py
+-a---            2/3/2023 12:14 PM            753 56.merge-intervals.py
+-a---            8/2/2022  8:12 PM            876 661_image_smoother.py
+-a---           7/13/2022  3:45 PM            602 704_binary_search.py
+-a---           7/12/2022  9:53 AM            356 746_min_cost_climbing_stairs.py
+-a---            2/3/2023  1:56 PM              0 79.word-search.py
+-a---           7/26/2022  2:42 PM            213 88_merge_sorted_array.py
+-a---           7/29/2022 11:28 AM            849 890_find_and_replace_pattern.py
+-a---           7/25/2022  8:25 AM           1671 894_all_possible_full_binary_trees.py
+-a---            2/3/2023  3:50 PM              0 file.txt
+-a---            8/2/2022 10:51 AM            635 genfile.py
+-a---           7/11/2022 11:59 AM             30 README.md
+-a---            8/2/2022  9:10 PM           1436 threading_example.py
+-a---           7/25/2022  8:25 AM            148 treenode.py
+
